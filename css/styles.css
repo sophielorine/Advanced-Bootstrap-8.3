@@ -17,6 +17,11 @@ header {
 	color: #aa95bf;
 }
 
+.navbar {
+	background-color: #FFFFFF;
+  	overflow: hidden;
+}
+
 .newsletter {
 	font-family: 'Abril Fatface', cursive;
 }
@@ -24,12 +29,8 @@ header {
 .paragraph {
 	text-align: center;
 	font-size: 13px;
+	font-family: 'Hind Madurai', sans-serif;
 }
-
-.title1 {
-	
-}
-
 
 .title2 {
 	text-align: center;
@@ -42,11 +43,8 @@ header {
 .contactform {
 	
 	text-align: center;
-	font-size: 15px
-}
-
-.margin1 {
-	
+	font-size: 16px;
+	font-family: 'Hind Madurai', sans-serif;
 }
 
 .contact {
@@ -61,10 +59,30 @@ header {
   width: 99%;
 }
 
-.margincontact {
-	
+footer {
+	font-family: 'Hind Madurai', sans-serif;
 }
 
-.newsletter {
-	
+h3 {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 28px;
+	text-align: center;
+}
+
+.card-header {
+	text-align: center;
+	font-family: 'Hind Madurai', sans-serif;
+	text-size: 22px;
+}
+
+.list-group-item {
+	font-family: 'Hind Madurai', sans-serif;
+}
+
+.label-danger {
+	background-color: red;
+}
+
+.tour {
+	margin-bottom: 5px;
 }
