@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+header {
+	font-family: 'Abril Fatface', cursive;
+	text-align: center;
+	padding: 3px;
+	color: #aa95bf;
+}
+
+.newsletter {
+	font-family: 'Abril Fatface', cursive;
+}
+
+.paragraph {
+	text-align: center;
+	font-size: 13px;
+}
+
+.title1 {
+	
+}
+
+
+.title2 {
+	text-align: center;
+	margin-top: 10px;
+	font-family: 'Abril Fatface', cursive;
+	font-size: 20px;
+	color: #aa95bf;
+}
+
+.contactform {
+	
+	text-align: center;
+	font-size: 15px
+}
+
+.margin1 {
+	
+}
+
+.contact {
+	border: double;
+	border-color: #aa95bf;
+}
+
+.centerimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 99%;
+}
+
+.margincontact {
+	
+}
+
+.newsletter {
+	
+}
