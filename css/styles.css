@@ -3,8 +3,8 @@
 
 * {
 	margin: 0;
-	padding: 0;
 	border: 0;
+	padding: 0;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
@@ -15,6 +15,10 @@ header {
 	text-align: center;
 	padding: 3px;
 	color: #aa95bf;
+}
+
+form {
+	margin-bottom: 15px;
 }
 
 .navbar {
@@ -84,5 +88,21 @@ h3 {
 }
 
 .tour {
-	margin-bottom: 5px;
+	margin-bottom: 30px;
+}
+
+.row {
+	margin-top: 20px;
+}
+
+.bandmembers {
+	margin-bottom: 20px;
+}
+
+.carousel {
+	margin-bottom: 30px;
+}
+
+.map {
+	margin-bottom: 25px;
 }
